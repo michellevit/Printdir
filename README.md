@@ -101,5 +101,5 @@ This tool is currently **tailored to my local development setup**:
 
 ## Credits
 
-Michelle Flandin
+Michelle Flandin  
 ChatGPT
