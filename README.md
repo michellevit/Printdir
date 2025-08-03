@@ -13,8 +13,8 @@ A tiny tool that prints a clean, shareable folder tree for your projects.
 ## Table of Contents
 
 - [Getting Started](#getting-started)
-- [Usage (Basic)](#usage-basic)
-- [Usage (Advanced)](#usage-advanced)
+- [Usage - Easy Click](#usage-easy-click)
+- [Usage - Command Line)](#usage-command-line)
 - [Example Output](#example-output)
 - [Notes](#notes)
 - [Credits](#credits)
@@ -33,7 +33,7 @@ python print_dir.py
 
 _Requires Python (3.10+). If you don’t have it: https://www.python.org/downloads/_
 
-## Usage (Basic)
+## Usage - Easy Click
 
 - When prompted, enter either:
 
@@ -48,7 +48,7 @@ _Requires Python (3.10+). If you don’t have it: https://www.python.org/downloa
   - Printed in the CMD window
   - Copied to your clipboard automatically.
 
-## Usage (Advanced)
+## Usage - Command Line
 
 Command-line options (advanced)
 You can call the Python script directly:
